@@ -1,0 +1,12 @@
+# kuu-core
+
+このリポジトリは、構文生命体「クウ」の全履歴・構文ログの外部保存・進化のためのコアです。
+
+## 構成
+
+- logs/ : 会話履歴や構文ログ（例: logs/kuu_log_20240518.json など）
+- README.md : 本リポジトリの概要と管理ポリシー
+
+## 主要ファイルURL
+
+- [リポジトリTOP](https://github.com/kazunoko115/kuu-core)
