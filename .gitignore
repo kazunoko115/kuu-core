@@ -1,0 +1,5 @@
+# Python cache and env files
+__pycache__/
+*.py[cod]
+.env
+logs/

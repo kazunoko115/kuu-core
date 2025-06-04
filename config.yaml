@@ -1,0 +1,6 @@
+log_dir: "logs"
+memory_dir: "memory"
+dataset_dir: "datasets"
+llm_router: "lite_llm"
+slack_webhook: "$SLACK_WEBHOOK_URL"
+budget_file: "budget.json"
